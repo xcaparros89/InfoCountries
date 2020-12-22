@@ -1,12 +1,13 @@
 # InfoCountries
 
-## Introduction
-
+<img src='./src/img/infoCountries.png' alt='page screenshot'>
+ 
+## Description
 React practise using a JSON with countries information [JSON database of countries](https://raw.githubusercontent.com/mledoze/countries/master/countries.json).
-Uses Bootstrap 4, Axios, routes and livecycle methods.
 
- <img src='./src/img/infoCountries.png' alt='page screenshot'>
+## Technologies used
+Uses React, Bootstrap 4, Axios, routes and livecycle methods.
 
-## Setup
+## To try it
 $ npm install
 $ npm start
