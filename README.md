@@ -1,6 +1,6 @@
 # InfoCountries
 
-<img src='./src/img/infoCountries.png' alt='page screenshot'>
+<img width='60%' src='./src/img/infoCountries.png' alt='page screenshot'>
  
 ## Description
 React practise using a JSON with countries information [JSON database of countries](https://raw.githubusercontent.com/mledoze/countries/master/countries.json).
